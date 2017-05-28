@@ -6,7 +6,7 @@ import csv
 from cStringIO import StringIO
 import sys
 import random
-print 'Number of arguments:', len(sys.argv), 'arguments.'
+#print 'Number of arguments:', len(sys.argv), 'arguments.'
 print 'Argument List:', str(sys.argv)
 ifile=sys.argv[1]
 sfile=sys.argv[2]

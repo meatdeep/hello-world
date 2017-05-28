@@ -7,7 +7,7 @@ from cStringIO import StringIO
 import sys
 import random
 #print 'Number of arguments:', len(sys.argv), 'arguments.'
-print 'Argument List:', str(sys.argv)
+#print 'Argument List:', str(sys.argv)
 ifile=sys.argv[1]
 sfile=sys.argv[2]
 ofile=sys.argv[3]
